@@ -2,10 +2,11 @@
 Global Weather Trend Forecasting
 A data science project analyzing the Global Weather Repository dataset to uncover weather trends and forecast future conditions, completed as part of the PM Accelerator technical assessment.
 
-🌍 About PM Accelerator
-PM Accelerator mission statement: [Paste the current, exact mission statement text copied from the PM Accelerator LinkedIn page or pmaccelerator.io here before submitting.]
+🌍**About PM Accelerator**
 
-This is left as a placeholder deliberately — company mission statements get updated, so copy the live text directly from their official page rather than relying on a secondhand paraphrase, to make sure what you submit is accurate and current.
+PM Accelerator helps aspiring and experienced Product Managers accelerate
+their careers through industry-focused training, AI product development,
+leadership programs, interview preparation, and hands-on learning experiences.
 
 Project Structure
 weather-forecasting-assessment/
