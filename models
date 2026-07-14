@@ -1,5 +1,5 @@
 """
-**After running run_all.py, these file will be created**
+**After running run_all.py, these files will be created**
 country_encoder.pkl
 isolation_forest.pkl
 prophet_model.pkl
