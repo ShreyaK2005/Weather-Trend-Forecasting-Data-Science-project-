@@ -14,6 +14,15 @@ st.write(
     "This dashboard demonstrates the complete AI weather analytics pipeline "
     "developed for the assessment."
 )
+st.info(
+    """
+**About PM Accelerator**
+
+PM Accelerator helps aspiring and experienced Product Managers accelerate
+their careers through industry-focused training, AI product development,
+leadership programs, interview preparation, and hands-on learning experiences.
+"""
+)
 
 # ---------------------------------------------------------
 # Paths
